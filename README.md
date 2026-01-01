@@ -1,1 +1,3 @@
-# 100-days-javascript-projects
+# JavaScript Fundamentals Projects
+
+## Coming Soon
